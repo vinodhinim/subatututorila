@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[Addition operation is successful]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8898" started-at="2020-07-02T16:32:05 IST" finished-at="2020-07-02T16:32:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8898" started-at="2020-07-02T16:32:05 IST" finished-at="2020-07-02T16:32:14 IST">
+      <class name="calculatorTest.Assertclass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:calculatorTest.Assertclass@eec5a4a]" name="setup" is-config="true" duration-ms="8811" started-at="2020-07-02T16:32:05 IST" finished-at="2020-07-02T16:32:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="add()[pri:0, instance:calculatorTest.Assertclass@eec5a4a]" name="add" duration-ms="12" started-at="2020-07-02T16:32:14 IST" finished-at="2020-07-02T16:32:14 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Addition operation is successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="div()[pri:0, instance:calculatorTest.Assertclass@eec5a4a]" name="div" duration-ms="3" started-at="2020-07-02T16:32:14 IST" finished-at="2020-07-02T16:32:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="exponent()[pri:0, instance:calculatorTest.Assertclass@eec5a4a]" name="exponent" duration-ms="4" started-at="2020-07-02T16:32:14 IST" finished-at="2020-07-02T16:32:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exponent -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:calculatorTest.Assertclass@eec5a4a]" name="mul" duration-ms="2" started-at="2020-07-02T16:32:14 IST" finished-at="2020-07-02T16:32:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:calculatorTest.Assertclass@eec5a4a]" name="sub" duration-ms="3" started-at="2020-07-02T16:32:14 IST" finished-at="2020-07-02T16:32:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- calculatorTest.Assertclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
